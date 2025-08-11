@@ -5,7 +5,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const fetchAndApplyTranslations = async (lang) => {
         try {
             // Fetch the JSON file from our FastAPI backend
-            const response = await fetch(`http://127.0.0.1:8000/lang/${lang}`);
+            // const response = await fetch(`http://127.0.0.1:8000/lang/${lang}`);
+            const response = await fetch(`https://digit-tally-demo-be-2.onrender.com//lang/${lang}`);
             if (!response.ok) {
                 throw new Error('Network response was not ok');
             }
