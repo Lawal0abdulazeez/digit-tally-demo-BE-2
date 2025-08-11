@@ -1,0 +1,22 @@
+{
+  "en": {
+    "nav_features": "Features",
+    "nav_pricing": "Pricing",
+    "nav_contact": "Contact Us",
+    "nav_login": "Log In",
+    "nav_signup": "Sign Up",
+    "hero_title": "Smart Accounting Software for Nigerian Businesses",
+    "hero_subtitle": "Manage your invoices, expenses, and inventory all in one place. Built for you.",
+    "hero_button": "Get Started For Free"
+  },
+  "yo": {
+    "nav_features": "Àwọn Ẹ̀yà",
+    "nav_pricing": "Iye Owó",
+    "nav_contact": "Kàn sí Wa",
+    "nav_login": "Wọlé",
+    "nav_signup": "Forúkọsílẹ̀",
+    "hero_title": "Sọ́fúwẹ́à Ìṣirò Owó fún Àwọn Oníṣòwò Nàìjíríà",
+    "hero_subtitle": "Ṣàkóso àwọn ìwé ìsanwó, ìnáwó, àti ọjà rẹ ní ibì kan ṣoṣo. A ṣe é fún ọ.",
+    "hero_button": "Bẹ̀rẹ̀ ní Ọ̀fẹ́"
+  }
+}
